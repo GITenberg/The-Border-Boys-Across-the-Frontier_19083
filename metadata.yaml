@@ -1,0 +1,34 @@
+_repo: The-Border-Boys-Across-the-Frontier_19083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Payson, Howard
+    - Lawton, Wilbur
+    - West, Marvin
+    - Lawton, Captain Wilbur
+    - Deering, Fremont B.
+    - Dexter J. Forrester
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2006-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Border Boys Across the Frontier
+url: http://www.gutenberg.org/ebooks/19083
